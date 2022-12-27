@@ -150,7 +150,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Pluralsight - Angular 2: Getting Started](https://www.pluralsight.com/courses/angular-2-getting-started-update)
 - :bulb: [Angular Material - Material Design components for Angular](https://material.angular.io/)
 - :bulb: [Angular Powered Bootstrap - Bootstrap widgets for Angular](https://ng-bootstrap.github.io/#/home)
-- :books: [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=2OHbjep_WjQ)
+- :books: [freeCodeCamp.org - Learn Angular - Full Tutorial Course](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 
 ---
 
